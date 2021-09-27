@@ -1,0 +1,20 @@
+﻿  Lab19.cpp
+D:\Project c++\Lab19\Lab19\Lab19.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(42,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(77,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(89,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(100,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(113,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(130,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(151,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(173,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Project c++\Lab19\Lab19\Lab19.cpp(173,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Project c++\Lab19\Lab19\Lab19.cpp(175,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(209,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(233,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(254,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(278,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Project c++\Lab19\Lab19\Lab19.cpp(299,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab19.vcxproj -> D:\Project c++\Lab19\Debug\Lab19.exe
